@@ -1,0 +1,8 @@
+Git commands:
+Get into the git folder ex: cd C:\Users\Moshina\Git_Folder
+1. git init
+2. git add HelloWorld.java
+3. git commit -u "YourMessage"
+4. git remote add origin https://github.com/amoshina183/MyFirstRepo.git
+5. git push -u origin master
+6. git pull
